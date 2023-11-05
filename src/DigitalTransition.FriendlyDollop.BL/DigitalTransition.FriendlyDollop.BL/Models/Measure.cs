@@ -1,6 +1,8 @@
-﻿namespace DigitalTransition.FriendlyDollop.BL.Models;
+﻿using DigitalTransition.FriendlyDollop.BL.Common.Contracts;
 
-public class MeasureType
+namespace DigitalTransition.FriendlyDollop.BL.Models;
+
+public sealed class Measure : ModelBase
 {
     
 }
